@@ -1,5 +1,5 @@
 addEventListener('mouseover', () => {
     setTimeout(() => {
-        document.getElementById('title').innerHTML= 'Joda mi rey sos el mejor uwu';
+        document.getElementById('title').innerHTML= 'Joda mi rey, sos el mejor uwu';
     }, 2000);
 })
